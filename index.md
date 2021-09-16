@@ -1,4 +1,6 @@
-I analyse relational and non-relational data for context specific insights and present them as paramterized reports and programmed dashboards. In the section below I highlight a few projects to showcase my competencies at ingestion, wrangling, analysis, presentation and conlusion of inferences. 
+### I analyse relational and non-relational data for context specific insights and present them as paramterized reports and programmed dashboards. 
+
+In the section below I highlight a few projects to showcase my competencies at ingestion, wrangling, analysis, presentation and conclusion of inferences. 
 
 ### Markdown
 
