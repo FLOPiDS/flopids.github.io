@@ -1,5 +1,5 @@
 ## SUJITH MURUGHAN MUDALIYAR
-### Consultant: Data Modeling | Data Mining | Data Visualisation
+Consultant: Data Modeling | Data Mining | Data Visualisation
 
 You can use the [editor on GitHub](https://github.com/FLOPiDS/flopids.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
