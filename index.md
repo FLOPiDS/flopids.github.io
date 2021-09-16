@@ -1,7 +1,4 @@
-
-You Hi can use the [editor on GitHub](https://github.com/FLOPiDS/flopids.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I analyse relational and non-relational data for context specific insights and present them as paramterized reports and programmed dashboards. In the section below I highlight a few projects to showcase my competencies at ingestion, wrangling, analysis, presentation and conlusion of inferences. 
 
 ### Markdown
 
