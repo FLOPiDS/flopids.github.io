@@ -1,8 +1,5 @@
-## SUJITH MURUGHAN MUDALIYAR
 
-Consultant: Data Modeling | Data Mining | Data Visualisation
-
-You can use the [editor on GitHub](https://github.com/FLOPiDS/flopids.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You Hi can use the [editor on GitHub](https://github.com/FLOPiDS/flopids.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
